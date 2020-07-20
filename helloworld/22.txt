@@ -1,0 +1,262 @@
+<config version="3.0.0">
+  <boundbox sizex="2.007472" sizey="0.9728997" sizez="5.595376" centerx="0.103" centery="0.4979012" centerz="-1.052259" />
+  <cameraoffset y="0.9000" depth="3.5000" />
+  <section>
+    <section id="0" name="section_0">
+      <editor posx="0" posy="0" posz="0" anglex="0" angley="0" anglez="0" />
+      <block type="pb_uni_prt_rectangle_1x1x10_forest_green" hide="0" id="1">
+        <editor posx="0.3531398" posy="0.6990626" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_rectangle_1x1x10_forest_green" hide="0" id="2">
+        <editor posx="-0.147" posy="0.6990626" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_transform_1x_1x1x20_forest_green" hide="0" id="3">
+        <editor posx="0.3531398" posy="0.2629999" posz="-0.09610052" anglex="270.0198" angley="0" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_transform_1x_1x1x20_forest_green" hide="0" id="4">
+        <editor posx="-0.1549846" posy="0.2629998" posz="-0.09610064" anglex="89.98022" angley="180" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_transform_1x_1x1x20_forest_green" hide="0" id="5">
+        <editor posx="0.3531398" posy="0.2629991" posz="-1.112302" anglex="270.0198" angley="0" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_transform_1x_1x1x20_forest_green" hide="0" id="6">
+        <editor posx="-0.1549846" posy="0.2629991" posz="-1.112302" anglex="90" angley="180" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_end_capsule_1x2x10_forest_green" hide="0" id="7">
+        <editor posx="0.09914085" posy="0.2629993" posz="1.615544" anglex="-5.464151E-05" angley="270.0001" anglez="269.9999" />
+      </block>
+      <block type="pb_uni_prt_transform_2x_1x2x20_forest_green" hide="0" id="8">
+        <editor posx="0.09913997" posy="0.263" posz="0.412" anglex="0" angley="270" anglez="90.00001" />
+      </block>
+      <block type="pb_uni_prt_transform_2x_1x2x20_lawn_green" hide="0" id="9">
+        <editor posx="0.09913982" posy="0.2629996" posz="-0.6042012" anglex="-3.415095E-06" angley="270" anglez="90.00005" />
+      </block>
+      <block type="pb_uni_prt_transform_2x_1x2x20_lawn_green" hide="0" id="10">
+        <editor posx="0.09913996" posy="0.2629988" posz="-1.620402" anglex="0" angley="270" anglez="90.00005" />
+      </block>
+      <block type="pb_uni_prt_rectangle_1x2x20_lawn_green" hide="0" id="11">
+        <editor posx="0.09914139" posy="0.2630006" posz="0.9229834" anglex="-1.024528E-05" angley="269.9999" anglez="90.00002" />
+      </block>
+      <block type="pb_uni_prt_rectangle_1x1x20_lawn_green" hide="0" id="12">
+        <editor posx="0.1" posy="0.262849" posz="-2.640354" anglex="270" angley="0" anglez="0" />
+      </block>
+      <block type="pb_flex_male_dome_1x1x10_putao_white" hide="0" thumb="pb_flex_male_dome_1x1x10_putao_white-texture_tex_bigeyes_02_common" id="13">
+        <editor posx="0.3531398" posy="0.766203" posz="0.4667873" anglex="0" angley="330.0884" anglez="0" />
+        <texture type="texture_tex_bigeyes_02_common" posx="0" posy="0" posz="0" anglex="0" angley="0" anglez="0" />
+      </block>
+      <block type="pb_flex_male_dome_1x1x10_putao_white" hide="0" thumb="pb_flex_male_dome_1x1x10_putao_white-texture_tex_bigeyes_02_common" id="14">
+        <editor posx="-0.147" posy="0.766203" posz="0.4667873" anglex="0" angley="327.3106" anglez="0" />
+        <texture type="texture_tex_bigeyes_02_common" posx="0" posy="0" posz="0" anglex="0" angley="0" anglez="0" />
+      </block>
+      <block type="pb_flex_male_hoof_1x1x15_lawn_green" hide="0" id="15">
+        <editor posx="-0.5198531" posy="0.2629789" posz="-0.04096009" anglex="-8.780443E-06" angley="180" anglez="270" />
+      </block>
+      <block type="pb_flex_male_hoof_1x1x15_lawn_green" hide="0" id="16">
+        <editor posx="0.7261175" posy="0.263" posz="-0.04106081" anglex="0" angley="0" anglez="270" />
+      </block>
+      <block type="pb_flex_male_hoof_1x1x15_lawn_green" hide="0" id="17">
+        <editor posx="0.7258532" posy="0.263" posz="-1.05796" anglex="0" angley="0" anglez="270" />
+      </block>
+      <block type="pb_flex_male_hoof_1x1x15_lawn_green" hide="0" id="18">
+        <editor posx="-0.5201174" posy="0.2629789" posz="-1.05786" anglex="-8.780443E-06" angley="180" anglez="270" />
+      </block>
+      <block type="pb_flex_female_horn_1x1x40_forest_green" hide="0" id="19">
+        <editor posx="0.101" posy="0.262849" posz="-2.834" anglex="90" angley="180" anglez="0" />
+      </block>
+      <block type="pb_uni_prt_transform_m4_1x2x10_lawn_green" hide="0" id="20">
+        <editor posx="0.09914112" posy="0.2630001" posz="1.363608" anglex="4.951887E-05" angley="270" anglez="89.99998" />
+      </block>
+      <block type="pb_uni_prt_feat_ta_1x2x20_2v1_forest_green" hide="0" id="21">
+        <editor posx="0.094" posy="0.27" posz="-1.818" anglex="270" angley="0" anglez="0" />
+      </block>
+    </section>
+  </section>
+  <keys>
+    <keyframe index="0" angleinherited="0" angle="1">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="325" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="325" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="1" angleinherited="1">
+      <item index="0" targetid="8" isunit="1" movetype="1">
+        <init posx="0.09913997" posy="20.263" posz="0.412" anglex="0" angley="270" anglez="90.00001" />
+        <movement delay="0" duration="1" type="0" posx="0.09913997" posy="0.263" posz="0.412" anglex="0" angley="270" anglez="90.00001" />
+      </item>
+    </keyframe>
+    <keyframe index="2" angleinherited="1">
+      <item index="0" targetid="2" isunit="1" movetype="1">
+        <init posx="-0.147" posy="20.69906" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="-0.147" posy="0.6990626" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="3" angleinherited="1">
+      <item index="0" targetid="1" isunit="1" movetype="1">
+        <init posx="0.3531398" posy="20.69906" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.3531398" posy="0.6990626" posz="0.4667873" anglex="0" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="4" angleinherited="1">
+      <item index="0" targetid="14" isunit="1" movetype="1">
+        <init posx="-0.147" posy="20.7662" posz="0.4667873" anglex="0" angley="327.3106" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="-0.147" posy="0.766203" posz="0.4667873" anglex="0" angley="327.3106" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="5" angleinherited="1">
+      <item index="0" targetid="13" isunit="1" movetype="1">
+        <init posx="0.3531398" posy="20.7662" posz="0.4667873" anglex="0" angley="330.0884" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.3531398" posy="0.766203" posz="0.4667873" anglex="0" angley="330.0884" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="6" angleinherited="1">
+      <item index="0" targetid="11" isunit="1" movetype="2">
+        <init posx="0.09914139" posy="20.263" posz="1.922983" anglex="-1.024528E-05" angley="269.9999" anglez="90.00002" />
+        <movement delay="0" duration="1" type="0" posx="0.09914139" posy="0.2630005" posz="1.922983" anglex="-1.024528E-05" angley="269.9999" anglez="90.00002" />
+        <movement delay="0" duration="1" type="0" posx="0.09914139" posy="0.2630006" posz="0.9229834" anglex="-1.024528E-05" angley="269.9999" anglez="90.00002" />
+      </item>
+    </keyframe>
+    <keyframe index="7" angleinherited="1">
+      <item index="0" targetid="20" isunit="1" movetype="2">
+        <init posx="0.09914112" posy="20.263" posz="2.363608" anglex="4.951887E-05" angley="270" anglez="89.99998" />
+        <movement delay="0" duration="1" type="0" posx="0.09914112" posy="0.2630005" posz="2.363608" anglex="4.951887E-05" angley="270" anglez="89.99998" />
+        <movement delay="0" duration="1" type="0" posx="0.09914112" posy="0.2630001" posz="1.363608" anglex="4.951887E-05" angley="270" anglez="89.99998" />
+      </item>
+    </keyframe>
+    <keyframe index="8" angleinherited="1">
+      <item index="0" targetid="7" isunit="1" movetype="2">
+        <init posx="0.09914085" posy="20.263" posz="2.615544" anglex="-5.464151E-05" angley="270.0001" anglez="269.9999" />
+        <movement delay="0" duration="1" type="0" posx="0.09914085" posy="0.2629986" posz="2.615544" anglex="-5.464151E-05" angley="270.0001" anglez="269.9999" />
+        <movement delay="0" duration="1" type="0" posx="0.09914085" posy="0.2629993" posz="1.615544" anglex="-5.464151E-05" angley="270.0001" anglez="269.9999" />
+      </item>
+    </keyframe>
+    <keyframe index="9" angleinherited="0" angle="2">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="325" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="35" anglez="0" />
+      </item>
+      <item index="1" targetid="4" isunit="1" movetype="3">
+        <init posx="-0.1549846" posy="20.263" posz="-1.096101" anglex="89.98022" angley="180" anglez="0" />
+        <movement delay="1" duration="1" type="0" posx="-0.1549846" posy="0.2630005" posz="-1.096101" anglex="89.98022" angley="180" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="-0.1549846" posy="0.2629998" posz="-0.09610064" anglex="89.98022" angley="180" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="10" angleinherited="0" angle="4">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="35" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="145" anglez="0" />
+      </item>
+      <item index="1" targetid="3" isunit="1" movetype="3">
+        <init posx="0.3531398" posy="20.263" posz="-1.096101" anglex="270.0198" angley="0" anglez="0" />
+        <movement delay="1" duration="1" type="0" posx="0.3531398" posy="0.2630005" posz="-1.096101" anglex="270.0198" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.3531398" posy="0.2629999" posz="-0.09610052" anglex="270.0198" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="11" angleinherited="1">
+      <item index="0" targetid="9" isunit="1" movetype="3">
+        <init posx="0.09913982" posy="20.263" posz="-1.604201" anglex="-3.415095E-06" angley="270" anglez="90.00005" />
+        <movement delay="0" duration="1" type="0" posx="0.09913982" posy="0.2630005" posz="-1.604201" anglex="-3.415095E-06" angley="270" anglez="90.00005" />
+        <movement delay="0" duration="1" type="0" posx="0.09913982" posy="0.2629996" posz="-0.6042012" anglex="-3.415095E-06" angley="270" anglez="90.00005" />
+      </item>
+    </keyframe>
+    <keyframe index="12" angleinherited="1">
+      <item index="0" targetid="5" isunit="1" movetype="3">
+        <init posx="0.3531398" posy="20.263" posz="-2.112302" anglex="270.0198" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.3531398" posy="0.2629986" posz="-2.112302" anglex="270.0198" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.3531398" posy="0.2629991" posz="-1.112302" anglex="270.0198" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="13" angleinherited="0" angle="2">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="145" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="35" anglez="0" />
+      </item>
+      <item index="1" targetid="6" isunit="1" movetype="3">
+        <init posx="-0.1549846" posy="20.263" posz="-2.112302" anglex="90" angley="180" anglez="0" />
+        <movement delay="1" duration="1" type="0" posx="-0.1549846" posy="0.2629986" posz="-2.112302" anglex="90" angley="180" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="-0.1549846" posy="0.2629991" posz="-1.112302" anglex="90" angley="180" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="14" angleinherited="1">
+      <item index="0" targetid="10" isunit="1" movetype="3">
+        <init posx="0.09913996" posy="20.263" posz="-2.620402" anglex="0" angley="270" anglez="90.00005" />
+        <movement delay="0" duration="1" type="0" posx="0.09913996" posy="0.2629986" posz="-2.620402" anglex="0" angley="270" anglez="90.00005" />
+        <movement delay="0" duration="1" type="0" posx="0.09913996" posy="0.2629988" posz="-1.620402" anglex="0" angley="270" anglez="90.00005" />
+      </item>
+    </keyframe>
+    <keyframe index="15" angleinherited="1">
+      <item index="0" targetid="21" isunit="1" movetype="3">
+        <init posx="0.094" posy="20.27" posz="-2.818" anglex="270" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.094" posy="0.2700005" posz="-2.818" anglex="270" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.094" posy="0.27" posz="-1.818" anglex="270" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="16" angleinherited="1">
+      <item index="0" targetid="12" isunit="1" movetype="3">
+        <init posx="0.1" posy="20.26285" posz="-3.640354" anglex="270" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.1" posy="0.2628498" posz="-3.640354" anglex="270" angley="0" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.1" posy="0.262849" posz="-2.640354" anglex="270" angley="0" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="17" angleinherited="1">
+      <item index="0" targetid="19" isunit="1" movetype="3">
+        <init posx="0.101" posy="20.26285" posz="-3.834" anglex="90" angley="180" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.101" posy="0.2628498" posz="-3.834" anglex="90" angley="180" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0.101" posy="0.262849" posz="-2.834" anglex="90" angley="180" anglez="0" />
+      </item>
+    </keyframe>
+    <keyframe index="18" angleinherited="0" angle="1">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="35" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="325" anglez="0" />
+      </item>
+      <item index="1" targetid="15" isunit="1" movetype="4">
+        <init posx="-1.519853" posy="20.26298" posz="-0.04096009" anglex="-8.780443E-06" angley="180" anglez="270" />
+        <movement delay="1" duration="1" type="0" posx="-1.519853" posy="0.2629795" posz="-0.04096009" anglex="-8.780443E-06" angley="180" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="-0.5198531" posy="0.2629789" posz="-0.04096009" anglex="-8.780443E-06" angley="180" anglez="270" />
+      </item>
+    </keyframe>
+    <keyframe index="19" angleinherited="1">
+      <item index="0" targetid="18" isunit="1" movetype="4">
+        <init posx="-1.520117" posy="20.26298" posz="-1.05786" anglex="-8.780443E-06" angley="180" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="-1.520117" posy="0.2629795" posz="-1.05786" anglex="-8.780443E-06" angley="180" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="-0.5201174" posy="0.2629789" posz="-1.05786" anglex="-8.780443E-06" angley="180" anglez="270" />
+      </item>
+    </keyframe>
+    <keyframe index="20" angleinherited="0" angle="3">
+      <item index="0" targetid="0" isunit="0" movetype="10">
+        <init posx="0" posy="0" posz="0" anglex="0" angley="325" anglez="0" />
+        <movement delay="0" duration="1" type="0" posx="0" posy="0" posz="0" anglex="0" angley="215" anglez="0" />
+      </item>
+      <item index="1" targetid="16" isunit="1" movetype="5">
+        <init posx="1.726117" posy="20.263" posz="-0.04106081" anglex="0" angley="0" anglez="270" />
+        <movement delay="1" duration="1" type="0" posx="1.726117" posy="0.2630005" posz="-0.04106081" anglex="0" angley="0" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="0.7261175" posy="0.263" posz="-0.04106081" anglex="0" angley="0" anglez="270" />
+      </item>
+    </keyframe>
+    <keyframe index="21" angleinherited="1">
+      <item index="0" targetid="17" isunit="1" movetype="5">
+        <init posx="1.725853" posy="20.263" posz="-1.05796" anglex="0" angley="0" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="1.725853" posy="0.2630005" posz="-1.05796" anglex="0" angley="0" anglez="270" />
+        <movement delay="0" duration="1" type="0" posx="0.7258532" posy="0.263" posz="-1.05796" anglex="0" angley="0" anglez="270" />
+      </item>
+    </keyframe>
+    <keyframesettings angleoptions="0;325;35;215;145;" angle="35" duration="1" offsetx="1" offsety="1" offsetz="1" initoffsetY="20" />
+  </keys>
+  <userguide data="{&quot;viewRect&quot;:{&quot;width&quot;:1600,&quot;height&quot;:900,&quot;bottom&quot;:100,&quot;right&quot;:500},&quot;frameItems&quot;:[{&quot;keyFrameIndex&quot;:1,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:2,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:2,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:2,&quot;itemIndex&quot;:2,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:2,&quot;itemIndex&quot;:3,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:3,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:3,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:4,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:5,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:5,&quot;itemIndex&quot;:2,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:5,&quot;itemIndex&quot;:3,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:6,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:6,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:false,&quot;customView&quot;:{&quot;width&quot;:0,&quot;height&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:6,&quot;itemIndex&quot;:2,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:800,&quot;bottom&quot;:100,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:7,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:800,&quot;bottom&quot;:100,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:7,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:600,&quot;bottom&quot;:300,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:7,&quot;itemIndex&quot;:2,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:500,&quot;bottom&quot;:500,&quot;right&quot;:700},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:8,&quot;itemIndex&quot;:0,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:500,&quot;bottom&quot;:300,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:8,&quot;itemIndex&quot;:1,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:500,&quot;bottom&quot;:300,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:8,&quot;itemIndex&quot;:2,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:500,&quot;bottom&quot;:300,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;},{&quot;keyFrameIndex&quot;:8,&quot;itemIndex&quot;:3,&quot;export&quot;:true,&quot;isCustomView&quot;:true,&quot;customView&quot;:{&quot;width&quot;:1600,&quot;height&quot;:500,&quot;bottom&quot;:300,&quot;right&quot;:500},&quot;isCustomAngle&quot;:false,&quot;customAngle&quot;:-1,&quot;arrowHeads&quot;:[],&quot;isCustomArrows&quot;:false,&quot;isCustomOffset&quot;:false,&quot;customOffset&quot;:8.0,&quot;mergeToFrameIndex&quot;:&quot;&quot;}],&quot;offset&quot;:1.0,&quot;offsetMax&quot;:4.0,&quot;savePath&quot;:&quot;&quot;,&quot;itemsUseRow&quot;:true,&quot;itemsRow&quot;:2,&quot;itemsColumn&quot;:10,&quot;itemRowSpace&quot;:0,&quot;itemColSpace&quot;:0}" />
+  <lighting data="default" />
+  <prefabs>
+    <prefab name="pb_uni_prt_rectangle_1x1x10_forest_green" model="pb_uni_prt_rectangle_1x1x10" material="forest_green" category="large" />
+    <prefab name="pb_uni_prt_transform_1x_1x1x20_forest_green" model="pb_uni_prt_transform_1x_1x1x20" material="forest_green" category="large" />
+    <prefab name="pb_uni_prt_end_capsule_1x2x10_forest_green" model="pb_uni_prt_end_capsule_1x2x10" material="forest_green" category="large" />
+    <prefab name="pb_uni_prt_transform_2x_1x2x20_forest_green" model="pb_uni_prt_transform_2x_1x2x20" material="forest_green" category="large" />
+    <prefab name="pb_uni_prt_transform_2x_1x2x20_lawn_green" model="pb_uni_prt_transform_2x_1x2x20" material="lawn_green" category="large" />
+    <prefab name="pb_uni_prt_rectangle_1x2x20_lawn_green" model="pb_uni_prt_rectangle_1x2x20" material="lawn_green" category="large" />
+    <prefab name="pb_uni_prt_rectangle_1x1x20_lawn_green" model="pb_uni_prt_rectangle_1x1x20" material="lawn_green" category="large" />
+    <prefab name="pb_flex_male_dome_1x1x10_putao_white" model="pb_flex_male_dome_1x1x10" material="putao_white" category="large" />
+    <prefab name="texture_tex_bigeyes_02_common" texture="texture_tex_bigeyes_02" model="texture_fbx_pb_flex_male_dome_1x1x10_01" material="common" />
+    <prefab name="pb_flex_male_hoof_1x1x15_lawn_green" model="pb_flex_male_hoof_1x1x15" material="lawn_green" category="large" />
+    <prefab name="pb_flex_female_horn_1x1x40_forest_green" model="pb_flex_female_horn_1x1x40" material="forest_green" category="large" />
+    <prefab name="pb_uni_prt_transform_m4_1x2x10_lawn_green" model="pb_uni_prt_transform_m4_1x2x10" material="lawn_green" category="large" />
+    <prefab name="pb_uni_prt_feat_ta_1x2x20_2v1_forest_green" model="pb_uni_prt_feat_ta_1x2x20_2v1" material="forest_green" category="large" />
+  </prefabs>
+</config>
