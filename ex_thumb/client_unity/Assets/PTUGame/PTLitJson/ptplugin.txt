@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "ptlitjson",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "独立公用lib",
+                "author": "Van's MacBook Pro",
+                "date": "2018-04-12"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": ""
+}

@@ -1,0 +1,52 @@
+﻿using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using PTGame.Utils.CVS;
+using System.Linq;
+
+public partial class {0}Config : DataConfigBase<{0}Config> {
+
+	private List<{0}Item> m_Items;
+
+	public override string GetCsvFile ()
+	{
+		return "{0}";
+	}
+
+
+	protected override System.Type GetItemType ()
+	{
+		return typeof({0}Item);
+	}
+
+	public List<{0}Item> Items
+	{
+		get
+		{ 
+			if (m_Items == null) {
+				m_Items = itemSets.Values.ToList().ConvertAll(s => s as {0}Item);
+			}
+			return m_Items;
+		}
+	}
+
+
+	public {0}Item GetItemById(object id)
+	{
+		IConfigItem dataItem = _GetItemById(id);
+
+		if(dataItem!=null)
+		{
+			return ({0}Item)dataItem;
+		}else{
+			return null;
+		}
+	}
+
+
+}
+
+public class {0}Item : IConfigItem
+{
+{3}
+}

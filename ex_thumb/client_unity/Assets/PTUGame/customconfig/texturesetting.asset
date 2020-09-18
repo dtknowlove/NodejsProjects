@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3854ee1c0b2c045fa8647be36eb134e8, type: 3}
+  m_Name: texturesetting
+  m_EditorClassIdentifier: 
+  TextureType: 0
+  SpriteImportMode: 1
+  SpritePackingTag: 
+  IsReadable: 0
+  TextureCompression: 0
+  SearchOption: 1

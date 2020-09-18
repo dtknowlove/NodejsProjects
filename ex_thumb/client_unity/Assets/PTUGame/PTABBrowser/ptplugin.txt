@@ -1,0 +1,72 @@
+{
+    "id": 0,
+    "name": "ptabbrowser",
+    "version": "1.1.1",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "新的ab生成系统",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-22"
+            },
+            {
+                "version": "1.0.2",
+                "content": "修改bug",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-22"
+            },
+            {
+                "version": "1.0.3",
+                "content": "调整resconfig.json的生成顺序",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-25"
+            },
+            {
+                "version": "1.0.5",
+                "content": "添加设置了assetbundle name 的 .bin文件自动复制",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-25"
+            },
+            {
+                "version": "1.0.6",
+                "content": "修改generateclass默认为false",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "1.0.7",
+                "content": "添加原生文件支持",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-02"
+            },
+            {
+                "version": "1.0.8",
+                "content": "添加定制输出路径",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-03"
+            },
+            {
+                "version": "1.0.9",
+                "content": "修复assetconfig没有生成到resconfig中的问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-07"
+            },
+            {
+                "version": "1.1.0",
+                "content": "修改默认为chunckbased ",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-14"
+            },
+            {
+                "version": "1.1.1",
+                "content": "添加指定目录生成resconfig",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-14"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTABBrowser"
+}

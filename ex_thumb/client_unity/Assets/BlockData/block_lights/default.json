@@ -1,0 +1,33 @@
+{
+    "lightingList": [
+        {
+            "pos": {
+                "x": 0.0,
+                "y": 3.0,
+                "z": 500.0
+            },
+            "euler": {
+                "x": 50.0,
+                "y": 330.0,
+                "z": 0.0
+            },
+            "type": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "intensity": 1.0,
+            "indirectMultiplier": 1.0,
+            "shadowType": 0,
+            "shadowStrength": 0.4519999921321869,
+            "shadowResolution": 3,
+            "shadowBias": 0.0,
+            "shadowNormalBias": 0.0,
+            "shadowNearPlane": 0.18000000715255738,
+            "renderMode": 0,
+            "cullingMask": -1
+        }
+    ]
+}

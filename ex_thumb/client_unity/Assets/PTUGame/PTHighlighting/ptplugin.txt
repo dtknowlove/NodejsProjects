@@ -1,0 +1,36 @@
+{
+    "id": 61,
+    "name": "pthighlighting",
+    "version": "1.0.2",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "0.0.1",
+                "content": "高亮插件",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.2",
+                "content": "改名",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "1.0.1",
+                "content": "修复rendertexture没有释放的问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-09"
+            },
+            {
+                "version": "1.0.2",
+                "content": "更新lightsystem 到v5.0",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-10"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTHighLighting"
+}

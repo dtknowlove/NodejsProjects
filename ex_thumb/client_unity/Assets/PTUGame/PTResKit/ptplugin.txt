@@ -1,0 +1,108 @@
+{
+    "id": 74,
+    "name": "ptreskit",
+    "version": "1.1.5",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "first commit",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-27"
+            },
+            {
+                "version": "1.0.1",
+                "content": "优化，fixbugs",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-27"
+            },
+            {
+                "version": "1.0.2",
+                "content": "添加reskitconfig",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-31"
+            },
+            {
+                "version": "1.0.3",
+                "content": "支持多包加载",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-01"
+            },
+            {
+                "version": "1.0.4",
+                "content": "debug 信息",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-01"
+            },
+            {
+                "version": "1.0.5",
+                "content": "支持动态加载、卸载 ab组",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-02"
+            },
+            {
+                "version": "1.0.6",
+                "content": "fix bug: 异步加载重复调用IEnumerator导致无法再次加载",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-08"
+            },
+            {
+                "version": "1.0.7",
+                "content": "微调：加载总manifest改为同步",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-08"
+            },
+            {
+                "version": "1.0.8",
+                "content": "fix：加载文件时，名字不能改为小写",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-14"
+            },
+            {
+                "version": "1.0.9",
+                "content": "优化：卸载ResGroup时，确保先卸载引用计数为0的资源",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-15"
+            },
+            {
+                "version": "1.1.0",
+                "content": "优化：simulation mode下加载sprite，获取实际sprite editor数据用来mock sprite",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-31"
+            },
+            {
+                "version": "1.1.1",
+                "content": "ResKitConfig:开发数据",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-12"
+            },
+            {
+                "version": "1.1.2",
+                "content": "fix：assetconfig.js 路径问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-09-28"
+            },
+            {
+                "version": "1.1.3",
+                "content": "1、Simulation Mode 可根据配置项加载AB\n2、ReskitConfig 右键配置",
+                "author": "huibin's MacBook Pro",
+                "date": "2018-11-27"
+            },
+            {
+                "version": "1.1.4",
+                "content": "修复AB打包时报错的问题",
+                "author": "huibin's MacBook Pro",
+                "date": "2018-12-10"
+            },
+            {
+                "version": "1.1.5",
+                "content": "整合ptcore，修改命名空间",
+                "author": "Ling's MacBook Pro",
+                "date": "01/17/2019 15:48"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTResKit"
+}

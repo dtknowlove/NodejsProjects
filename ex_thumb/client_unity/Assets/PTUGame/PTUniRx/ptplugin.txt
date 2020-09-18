@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "ptunirx",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "UniRx",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-10"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTUniRx"
+}

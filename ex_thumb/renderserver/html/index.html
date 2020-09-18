@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <title>渲染缩略图</title>
+    <style>
+        #render {
+            text-align: left;
+            background-color: #fff;
+            border-radius: 20px;
+            width: 500px;
+            height: 350px;
+            margin: auto;
+            position: absolute;
+            top: -350;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="render">
+        <h1>渲染缩略图</h1>
+        <h3>选择一个零件信息文件上传:</h3>
+        <form action="/renderfile" method="post" enctype="multipart/form-data">
+            <input type="file" name="config" size="50" />
+            <br /><br />
+            <input type="submit" value="开始渲染" />
+        </form>
+        <h2>工具</h2>
+        <form action="http://127.0.0.1:8081/state" method="GET">
+            <input type="submit" value="查询服务器状态">
+        </form>
+        <form action="http://127.0.0.1:8081/clear" method="GET" style="font-size: 10; color: red;">
+            <input type="submit" value="清除缓存"> tips:确保当前无执行任务
+        </form>
+        <form action="http://127.0.0.1:8081/querystate" method="GET">
+            渲染id: <input type="number" name="id"> <input type="submit" value="查询">
+        </form>
+        <form action="http://127.0.0.1:8081/query" method="GET">
+            数量: <input type="number" name="num" value=10> <input type="submit" value="查询渲染用时统计">
+        </form>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,558 @@
+{
+    "id": 13,
+    "name": "blockdata",
+    "version": "1.9.3",
+    "type": "blockeditor",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "积木编辑器数据库",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.1",
+                "content": "数据库改为json格式",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.3",
+                "content": "添加sonic",
+                "author": "heyi",
+                "date": ""
+            },
+            {
+                "version": "1.0.4",
+                "content": "update bots material",
+                "author": "heyi",
+                "date": ""
+            },
+            {
+                "version": "1.0.6",
+                "content": "更新上个版本新增的积木块的description",
+                "author": "棉花糖的Mac",
+                "date": "2018-03-13"
+            },
+            {
+                "version": "1.0.7",
+                "content": "更新积木块高模材质",
+                "author": "棉花糖的Mac",
+                "date": "2018-03-14"
+            },
+            {
+                "version": "1.0.8",
+                "content": "更新几条数据的料号和价格",
+                "author": "棉花糖的Mac",
+                "date": "2018-03-30"
+            },
+            {
+                "version": "1.1.0",
+                "content": "跳过何屹的临时版本",
+                "author": "棉花糖的Mac",
+                "date": "2018-03-30"
+            },
+            {
+                "version": "1.1.1",
+                "content": "添加部分零件新颜色",
+                "author": "棉花糖的Mac",
+                "date": "2018-04-04"
+            },
+            {
+                "version": "1.1.2",
+                "content": "数据库更新如下：\n1、增加category字段标注积木体系，large表示大颗粒，small表示小颗粒，fig表示公仔\n2、增加一条pb_paster的贴纸条目，用于导出零件清单对贴纸占位",
+                "author": "棉花糖的Mac",
+                "date": "2018-04-10"
+            },
+            {
+                "version": "1.1.3",
+                "content": "数据库更新如下：\n增加小颗粒模型50个，分别做了白、浅灰、深灰、透明灰、蓝色的材质共250个prefab\n*缩略图暂缺",
+                "author": "棉花糖的Mac",
+                "date": "2018-04-18"
+            },
+            {
+                "version": "1.1.4",
+                "content": "更新内容：\n小颗粒83个（包括软胶件等），大颗粒2个，各10个颜色\n1、第一批、第二批中删除部分零件，增加部分零件（ID有变化）\n2、新增第三批零件",
+                "author": "棉花糖的Mac",
+                "date": "2018-04-27"
+            },
+            {
+                "version": "1.1.5",
+                "content": "更新内容：\n小颗粒83个（包括软胶件等），大颗粒2个，各10个颜色\n1、第一批、第二批中删除部分零件，增加部分零件（ID有变化）\n2、新增第三批零件",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-04"
+            },
+            {
+                "version": "1.1.6",
+                "content": "更新内容：\n增加一个小颗粒\n增加一个tech类型的数据线",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-07"
+            },
+            {
+                "version": "1.1.7",
+                "content": "截止目前的大颗粒、小颗粒、科技件整理完成",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-09"
+            },
+            {
+                "version": "1.1.8",
+                "content": "整合高低模数据文件",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-10"
+            },
+            {
+                "version": "1.1.9",
+                "content": "更新几个模型的分类",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-25"
+            },
+            {
+                "version": "1.2.0",
+                "content": "增加rf版本bots主控",
+                "author": "棉花糖的Mac",
+                "date": "2018-05-30"
+            },
+            {
+                "version": "1.2.1",
+                "content": "增加Texture的db",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-04"
+            },
+            {
+                "version": "1.2.2",
+                "content": "公仔并新增一些颜色",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-04"
+            },
+            {
+                "version": "1.2.3",
+                "content": "大国科技2个小颗粒、84个大颗粒各新增10个颜色",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-06"
+            },
+            {
+                "version": "1.2.4",
+                "content": "fig追加一个部件颜色\nfig_hip_basic_bright_red",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-06"
+            },
+            {
+                "version": "1.2.5",
+                "content": "新增大国需要的大颗粒颜色，以及bots主控rf版本深灰色",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-08"
+            },
+            {
+                "version": "1.2.6",
+                "content": "pb_block_bots_ultrasonic_asm移动到tech目录",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-11"
+            },
+            {
+                "version": "1.2.7",
+                "content": "大国科技系列新增描述、料号信息",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-14"
+            },
+            {
+                "version": "1.2.8",
+                "content": "tech类别新增轴：\npbs_gears_cross_axle_95\n\rpbs_gears_cross_axle_71\r\npbs_gears_cross_axle_39\r\npbs_gears_cross_axle_31\r\npbs_gears_cross_axle_23\n\nrobo舵机、超声部件材质更新\npb_block_bots_ultrasonic_asm\npb_motor_360_center_asm\n\n主控虚拟体更新",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-20"
+            },
+            {
+                "version": "1.2.9",
+                "content": "将4个老的大颗粒料号与描述改成新版本的料号与描述，都已无库存或原先未生产\n15-00091-02302-00，PB_UNI_PRT_RECTANGLE_1X3X10_TP_Coolgray \n15-00098-00101-00，PB_UNI_PRT_TRANSFORM_2X_1X1X20_Putao_White \n15-00093-00601-00，PB_UNI_PRT_TRANSFORM_M4_1X2X10_Bright_Red \n15-00139-00101-00，PB_UNI_PRT_END_CAPSULE_1X1X20_Putao_White",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-21"
+            },
+            {
+                "version": "1.3.0",
+                "content": "新增两个能量魔方",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-22"
+            },
+            {
+                "version": "1.3.1",
+                "content": "rf版本主控低模材质修改",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-28"
+            },
+            {
+                "version": "1.3.2",
+                "content": "rf版本主控高模材质修改",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-28"
+            },
+            {
+                "version": "1.3.3",
+                "content": "texturedata增加小狗眼睛面片",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-29"
+            },
+            {
+                "version": "1.3.4",
+                "content": "修改主控和超声部件的发光区域材质为led_blue",
+                "author": "棉花糖的Mac",
+                "date": "2018-06-29"
+            },
+            {
+                "version": "1.3.5",
+                "content": "pb_uni_prt_transform_2tx_1x1x20\npb_uni_prt_transform_m2_1x1x10\n新增深灰色",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-02"
+            },
+            {
+                "version": "1.3.6",
+                "content": "blockbots贴纸发布",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-05"
+            },
+            {
+                "version": "1.3.7",
+                "content": "新增一个老的大颗粒的荧光绿",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-06"
+            },
+            {
+                "version": "1.3.8",
+                "content": "新增教育版需求积木块",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-11"
+            },
+            {
+                "version": "1.3.9",
+                "content": "新增大国的贴纸",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-12"
+            },
+            {
+                "version": "1.4.0",
+                "content": "去掉了透明材质的履带prefab，非透明材质履带更新低模材质",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-18"
+            },
+            {
+                "version": "1.4.1",
+                "content": "鲁鲁导弹车零件老的大颗粒新增颜色",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-18"
+            },
+            {
+                "version": "1.4.2",
+                "content": "鲁鲁导弹车零件，轮子模型更正",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-18"
+            },
+            {
+                "version": "1.4.3",
+                "content": "教育2x8x10新增大颗粒高模材质修改",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-20"
+            },
+            {
+                "version": "1.4.4",
+                "content": "blockdata中修改积木尺寸\n1、轮子（feat_wheel）、轴(gear)这类单个数字，增加前缀【1x1x】+数字\n2、公仔字符串尺寸：增加前缀【1x1x】+公仔尺寸字符串\n3、其他的 几x几，几x几x几，几x几x几x字符串不做处理\n4、个别pb_motor_360_center_asm_putao_white尺寸增加前缀【1x1x】",
+                "author": "棉花糖的Mac",
+                "date": "2018-07-30"
+            },
+            {
+                "version": "1.4.5",
+                "content": "增加鲁鲁导弹车贴纸",
+                "author": "棉花糖的Mac",
+                "date": "2018-08-03"
+            },
+            {
+                "version": "1.4.6",
+                "content": "模型切分更改pbs_uni_feat_tube_1x1x12，修改了高低模材质配置",
+                "author": "棉花糖的Mac",
+                "date": "2018-08-08"
+            },
+            {
+                "version": "1.4.7",
+                "content": "sticker增加太空穿梭机的贴纸",
+                "author": "棉花糖的Mac",
+                "date": "2018-08-09"
+            },
+            {
+                "version": "1.4.8",
+                "content": "fig_prop_connector01_m5_f3增加一个tp_bright_yellow",
+                "author": "棉花糖的Mac",
+                "date": "2018-08-13"
+            },
+            {
+                "version": "1.4.9",
+                "content": "pb_uni_prt_rectangle_1x2x10增加Flame_Yellowish_Orange色",
+                "author": "棉花糖的Mac",
+                "date": "2018-08-13"
+            },
+            {
+                "version": "1.5.0",
+                "content": "新增pb_feat_prt_light_b的 Flame_Yellowish_Orange颜色",
+                "author": "Nobi",
+                "date": "2018-09-10"
+            },
+            {
+                "version": "1.5.1",
+                "content": "新增六款科技件",
+                "author": "Nobi",
+                "date": "2018-09-14"
+            },
+            {
+                "version": "1.5.2",
+                "content": "新增创意桶48款零件",
+                "author": "Nobi",
+                "date": "2018-09-20"
+            },
+            {
+                "version": "1.5.3",
+                "content": "更正metallic_yellow的名称",
+                "author": "Nobi",
+                "date": "2018-09-21"
+            },
+            {
+                "version": "1.5.4",
+                "content": "新增\npbs_uni_feat_wheelboss_2x4x10_metallic_yellow",
+                "author": "Nobi",
+                "date": "2018-09-21"
+            },
+            {
+                "version": "1.5.5",
+                "content": "新增\npbs_transform_hinge_lower_1x2x5_tp_bright_yellow;\npbs_transform_hinge_upper_1x2x5_tp_bright_yellow;\npbs_uni_feat_end_flat_1x1x5_tp_bright_yellow;\npbs_uni_feat_wheelboss_2x4x10_tp_bright_yellow;",
+                "author": "Nobi",
+                "date": "2018-09-25"
+            },
+            {
+                "version": "1.5.6",
+                "content": "更新\npbs_transform_hinge_lower_1x2x5_tp_bright_yellow;\npbs_transform_hinge_upper_1x2x5_tp_bright_yellow;\npbs_uni_feat_end_flat_1x1x5_tp_bright_yellow;",
+                "author": "Nobi",
+                "date": "2018-09-25"
+            },
+            {
+                "version": "1.5.7",
+                "content": "新增scale，供自动化生成缩略图使用",
+                "author": "Nobi",
+                "date": "2018-10-11"
+            },
+            {
+                "version": "1.5.8",
+                "content": "新增启初小车新增零件和丝印",
+                "author": "Nobi",
+                "date": "2018-10-19"
+            },
+            {
+                "version": "1.5.9",
+                "content": "新增pb_uni_prt_feat_arc_2x4x10  的 Light_Indigo ; Light_Salmon ; Pastel_Pink",
+                "author": "Nobi",
+                "date": "2018-10-19"
+            },
+            {
+                "version": "1.6.0",
+                "content": "调整启初小车的底座配色",
+                "author": "Nobi",
+                "date": "2018-10-22"
+            },
+            {
+                "version": "1.6.1",
+                "content": "新增火箭车赠品小车零件和贴纸",
+                "author": "Nobi",
+                "date": "2018-11-07"
+            },
+            {
+                "version": "1.6.2",
+                "content": "新增，pb_gears_connector_2m_light_coolgray;pb_gears_connector_3m_bright_yellow",
+                "author": "Nobi",
+                "date": "2018-12-12"
+            },
+            {
+                "version": "1.6.3",
+                "content": "新增测试版创意桶科技件",
+                "author": "Nobi",
+                "date": "2018-12-19"
+            },
+            {
+                "version": "1.6.4",
+                "content": "新增测试版创意桶科技件",
+                "author": "Nobi",
+                "date": "2018-12-19"
+            },
+            {
+                "version": "1.6.5",
+                "content": "更正pb_gears_connector_3m；pb_gears_connector_2m",
+                "author": "Nobi",
+                "date": "2018-12-19"
+            },
+            {
+                "version": "1.6.6",
+                "content": "更正pbs_gears_rim_18x10_hole5_medium_coolgray的类型",
+                "author": "Nobi",
+                "date": "2018-12-19"
+            },
+            {
+                "version": "1.6.7",
+                "content": "新增创意通测试零件 第二批",
+                "author": "Nobi",
+                "date": "2018-12-19"
+            },
+            {
+                "version": "1.6.8",
+                "content": "创造系列 新增第一批零件",
+                "author": "Nobi",
+                "date": "2019-01-16"
+            },
+            {
+                "version": "1.6.9",
+                "content": "布鲁可小颗粒 新增第一批零件",
+                "author": "Nobi",
+                "date": "01/31/2019 11:22"
+            },
+            {
+                "version": "1.7.0",
+                "content": "布鲁可小颗粒 新增第二批零件",
+                "author": "Nobi",
+                "date": "01/31/2019 17:30"
+            },
+            {
+                "version": "1.7.1",
+                "content": "190218新开模零件测试 ",
+                "author": "棉花糖的Mac",
+                "date": "02/18/2019 15:43"
+            },
+            {
+                "version": "1.7.2",
+                "content": "190219新开模零件测试 ",
+                "author": "棉花糖的Mac",
+                "date": "02/19/2019 11:28"
+            },
+            {
+                "version": "1.7.3",
+                "content": "190220新开模零件测试 ",
+                "author": "棉花糖的Mac",
+                "date": "02/20/2019 10:49"
+            },
+            {
+                "version": "1.7.4",
+                "content": "新增料号",
+                "author": "Nobi",
+                "date": "02/21/2019 16:24"
+            },
+            {
+                "version": "1.7.5",
+                "content": "更新pbs_uni_feat_frame_1x4x40 和 fig_chest_buluke 的scale",
+                "author": "Nobi",
+                "date": "02/22/2019 18:34"
+            },
+            {
+                "version": "1.7.6",
+                "content": "删除head_buluke 改为\t\tfig_head_bubu\t\r\nfig_head_lulu\t\r\nfig_head_coco\t\r\npbs_uni_feat_frame_lid1-2_1x4x40\t替换为pbs_uni_feat_frame_lid1_2_1x4x40\n1.修改模型虚拟体相关BUG\npbs_gears_vehicle_plate_4x14x10.FBX\npbs_uni_feat_stretcher_4x8x5.FBX\npbs_uni_feat_glass_for_w_1x2x20.FBX\npbs_uni_2x6x5.FBX\npbs_uni_feat_hinge_plate_4x4x5\n",
+                "author": "Nobi",
+                "date": "02/22/2019 21:49"
+            },
+            {
+                "version": "1.7.7",
+                "content": "新增0225提交的新增颜色的一批小颗粒\n",
+                "author": "Nobi",
+                "date": "02/26/2019 10:41"
+            },
+            {
+                "version": "1.7.8",
+                "content": "0226修正三颗头的材质：\nfig_head_bubu\nfig_head_lulu\nfig_head_coco",
+                "author": "棉花糖的Mac",
+                "date": "02/26/2019 12:42"
+            },
+            {
+                "version": "1.7.9",
+                "content": "0227新增积木颜色：\npbs_tech_mb_light_tp_blue_blue\r\npbs_tech_mb_light_tp_yellow_yellow\r\npb_uni_prt_end_flat_1x1x10_tp_bright_yellow\r\npbs_uni_1x4x5_forest_green\r\npbs_uni_feat_tile_roof_1x2x10_medium_azur\r\npbs_uni_feat_seat_2x2x5_pastel_pink\r\npbs_uni_feat_seat_2x2x5_forest_green\r\npbs_uni_feat_seat_2x2x5_grape_purple\r\npbs_uni_feat_seat_2x2x5_medium_azur",
+                "author": "棉花糖的Mac",
+                "date": "02/27/2019 16:01"
+            },
+            {
+                "version": "1.8.0",
+                "content": "0228更新\n1、修改三个车灯料号\n2、新增积木颜色：\npbs_gears_vehicle_4pin_7x4x10_dark_purple\r\npbs_uni_feat_steeringwhell_base_dark_purple\r\npbs_transform_plate_1x6x5_dark_purple\r\npbs_uni_feat_seat_2x2x5_dark_purple\r\npbs_uni_feat_arc_2x2x10_forest_green\r\nfig_arml_basic_dark_purple\r\nfig_armr_basic_dark_purple\r\nfig_hdgear_helmetmoto_m3_dark_purple\r\nfig_arml_basic_medium_yellowish_green\r\nfig_armr_basic_medium_yellowish_green\r\nfig_chest_basic_medium_yellowish_green\r\nfig_hip_basic_medium_yellowish_green\r\nfig_legl_basic_medium_yellowish_green\r\nfig_legr_basic_medium_yellowish_green\r\nfig_hand_basic_medium_yellowish_green\r\nfig_hdgear_helmetmoto_m3_medium_yellowish_green\r\nfig_hand_basic_bright_blue\r\nfig_hand_basic_bright_yellow",
+                "author": "棉花糖的Mac",
+                "date": "02/28/2019 12:48"
+            },
+            {
+                "version": "1.8.1",
+                "content": "0305更新\n1、新增大颗粒零件 @李兆龙 @陈世英 @张翔\n*大颗粒新增软胶件缺模型\n*两个新颜色缺材质球\n2、新增fig零件\n3、老的大颗粒用新的料号规则补足了料号\n",
+                "author": "棉花糖的Mac",
+                "date": "03/05/2019 15:48"
+            },
+            {
+                "version": "1.8.2",
+                "content": "0305更新2",
+                "author": "棉花糖的Mac",
+                "date": "03/05/2019 18:12"
+            },
+            {
+                "version": "1.8.3",
+                "content": "0306更新\n1、新增新能源&大眼睛的大颗粒\n2、新增小颗粒",
+                "author": "棉花糖的Mac",
+                "date": "03/06/2019 15:25"
+            },
+            {
+                "version": "1.8.4",
+                "content": "0307新增积木颜色\npb_uni_prt_rectangle_1x2x10_pastel_pink\r\npaiblocks_id_wheel_asm01_medium_coolgray\r\npb_block_bots_wheel_asm_medium_coolgray",
+                "author": "棉花糖的Mac",
+                "date": "03/07/2019 09:59"
+            },
+            {
+                "version": "1.8.5",
+                "content": "0308修正部分新颜色料号",
+                "author": "棉花糖的Mac",
+                "date": "03/08/2019 17:02"
+            },
+            {
+                "version": "1.8.6",
+                "content": "0311新增大颗粒软胶件\npb_flex_male_horn_1x1x40_bright_yellow\r\npb_flex_male_horn_1x1x40_putao_white\r\npb_flex_male_dome_1x1x10_putao_white\r\npb_flex_male_wing_2x2x10_light_skyblue\r\npb_flex_male_giraffe_h_1x1x15_bright_orange\r\npb_flex_male_tooth_1x1x10_bright_orange\r\npb_flex_male_tooth_1x1x10_bright_yellow\r\npb_flex_male_tooth_1x1x10_reddish_brown\r\npb_flex_male_hoof_1x1x15_dark_coolgray\r\npb_flex_male_hoof_1x1x15_lawn_green\r\npb_flex_male_hoof_1x1x15_putao_white\r\npb_flex_female_horn_1x1x40_bright_red\r\npb_flex_female_horn_1x1x40_light_coolgray\r\npb_flex_female_horn_1x1x40_forest_green\r\npb_flex_female_horn_1x1x40_bright_yellow\r\npb_flex_female_horn_1x1x40_bright_orange\r\npb_flex_female_horn_1x1x40_putao_white\r\npb_flex_female_pipe_l_1x1x30_light_purple\r\npb_flex_female_pipe_l_1x1x30_dark_coolgray\r\npb_flex_female_pipe_l_1x1x30_reddish_brown\r\npb_flex_female_tentacle_1x1x35_light_purple\r\npb_flex_female_foot_1x1x10_forest_green\r\npb_flex_female_fin_1x1x20_bright_red\r\npb_flex_female_fin_1x1x20_bright_yellow\r\npb_flex_female_fin_1x1x20_doraemon_blue\r\npb_flex_female_cocktail_1x1x25_bright_fuchsia\r\npb_flex_female_cocktail_1x1x25_bright_red\r\npb_flex_male_exhaust_1x1x20_light_coolgray\r\npb_flex_male_cable_1x1x150_bright_red",
+                "author": "棉花糖的Mac",
+                "date": "03/11/2019 17:35"
+            },
+            {
+                "version": "1.8.7",
+                "content": "0312新增大颗粒\npb_uni_prt_feat_arc_2x4x10_putao_black\r\npb_uni_prt_feat_arc_1x4x10_putao_black\r\npb_uni_prt_feat_c_trip_3x4x20_tp_medium_azur\r\npb_uni_prt_feat_axis_2x2x20_putao_black\r\npb_uni_prt_rectangle_2x6x10_putao_black\r\npb_uni_prt_feat_axis_4x4x10_bright_red\r\npb_uni_prt_transform_4x_1x1x20_putao_black\r\npb_uni_prt_transform_2x_1x2x20_putao_black\r\npb_uni_prt_feat_axisb_4x4x10_putao_black\r\npb_uni_prt_end_flat_1x2x10_putao_black\r\npb_uni_prt_end_capsule_1x1x20_tp_medium_azur\r\npb_uni_prt_end_flat_1x1x10_tp_medium_azur",
+                "author": "棉花糖的Mac",
+                "date": "03/12/2019 10:10"
+            },
+            {
+                "version": "1.8.8",
+                "content": "0312新增需求\n1、搭建工具1个：pbs_gears_rim_18x10_hole5_metallic_coolgray\n2、遥控恐龙需求\n3、重型拖车赠品贴纸",
+                "author": "棉花糖的Mac",
+                "date": "03/12/2019 17:59"
+            },
+            {
+                "version": "1.8.9",
+                "content": "0313修改Blockdata中description信息，将软胶件材质和工艺修改为Silicon和F02",
+                "author": "棉花糖的Mac",
+                "date": "03/13/2019 10:56"
+            },
+            {
+                "version": "1.9.0",
+                "content": "0313新增需求\n遥控恐龙积木块\npb_uni_prt_feat_arc_1x4x10_lawn_green\r\npb_uni_prt_feat_arc_1x4x10_medium_yellowish_green\r\npb_uni_prt_feat_arc_1x4x10_forest_green\r\npb_uni_prt_feat_hinge_m_2x2x10_dark_coolgray\r\npb_uni_prt_feat_axis_4x4x10_forest_green",
+                "author": "棉花糖的Mac",
+                "date": "03/13/2019 15:47"
+            },
+            {
+                "version": "1.9.1",
+                "content": "0314新增需求\npb_uni_prt_feat_arc_1x2x10_tp_medium_azur\r\npb_block_bots_id_asm_putao_black",
+                "author": "棉花糖的Mac",
+                "date": "03/14/2019 12:43"
+            },
+            {
+                "version": "1.9.2",
+                "content": "0315更新\n1、stickerdata新增卡丁车系列贴纸\n2、blockdata修改模型名pb_flex_male_wing_2x2x10，新名称pb_flex_female_wing_2x2x10",
+                "author": "棉花糖的Mac",
+                "date": "03/19/2019 10:00"
+            },
+            {
+                "version": "1.9.3",
+                "content": "0321更新\n1、stickerdata新增布鲁可小颗粒贴纸\n2、blockdata按照新规则补足描述和料号（除复合材质和asm类型的零件以外）",
+                "author": "棉花糖的Mac",
+                "date": "03/21/2019 10:04"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/BlockData"
+}

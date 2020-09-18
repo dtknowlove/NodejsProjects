@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "pteditorcoroutines",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "初始发布",
+                "author": "van's MacBook Pro (2)",
+                "date": "03/18/2019 18:17"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTEditorCoroutines"
+}

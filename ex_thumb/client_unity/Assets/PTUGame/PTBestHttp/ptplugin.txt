@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "ptbesthttp",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "初始发布",
+                "author": "van's MacBook Pro (2)",
+                "date": "04/28/2019 11:11"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTBestHttp"
+}

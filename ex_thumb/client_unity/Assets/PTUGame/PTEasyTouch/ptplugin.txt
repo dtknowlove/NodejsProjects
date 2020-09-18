@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "pteasytouch",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "EasyTouch插件",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-21"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTEasyTouch"
+}

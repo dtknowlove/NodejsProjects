@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "ptsharpzip",
+    "version": "1.0.0",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "初始提交",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-17"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTSharpZip"
+}

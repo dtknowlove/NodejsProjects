@@ -1,0 +1,162 @@
+{
+    "id": 56,
+    "name": "ptgame",
+    "version": "4.2.7",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "4.0.0",
+                "content": "重构",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-22"
+            },
+            {
+                "version": "4.0.1",
+                "content": "添加PTAndroidUtils",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-25"
+            },
+            {
+                "version": "4.0.2",
+                "content": "添加gameconfig,跟ptbuild对应",
+                "author": "Van's MacBook Pro",
+                "date": "2018-05-26"
+            },
+            {
+                "version": "4.0.3",
+                "content": "添加 _GetAudioSessionPortType 获取声音输出设备",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "4.0.5",
+                "content": "1.配合ptbuild修改，增加快速切换不同环境",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-12"
+            },
+            {
+                "version": "4.0.6",
+                "content": "添加跳转到设置功能",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-12"
+            },
+            {
+                "version": "4.0.7",
+                "content": "添加Androi跳转到设置功能",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-31"
+            },
+            {
+                "version": "4.0.8",
+                "content": "修复 添加Androi跳转到设置功能问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-01"
+            },
+            {
+                "version": "4.0.9",
+                "content": "修复Android 加载配置文件问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-03"
+            },
+            {
+                "version": "4.1.0",
+                "content": "移除ios 打开设置页面函数，苹果禁用",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-03"
+            },
+            {
+                "version": "4.1.1",
+                "content": "移除所有OC代码 prefs:root 苹果禁用",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-07"
+            },
+            {
+                "version": "4.1.2",
+                "content": "修复编辑器中GetBuildNumOrVersionCode（）不正确问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-08"
+            },
+            {
+                "version": "4.1.3",
+                "content": "修复PTUniinterface tostring()问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-13"
+            },
+            {
+                "version": "4.1.5",
+                "content": "修复获取_GetAudioSessionPortType 导致crash 问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-27"
+            },
+            {
+                "version": "4.1.6",
+                "content": "Android禁止应用分屏显示",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-09"
+            },
+            {
+                "version": "4.1.7",
+                "content": "添加 GetAudioSessionPortName",
+                "author": "Van's MacBook Pro",
+                "date": "2018-10-09"
+            },
+            {
+                "version": "4.1.8",
+                "content": "ios safariviewcontroller",
+                "author": "Van's MacBook Pro",
+                "date": "2018-10-11"
+            },
+            {
+                "version": "4.1.9",
+                "content": "修改 safariviewcontroller",
+                "author": "Van's MacBook Pro",
+                "date": "2018-10-12"
+            },
+            {
+                "version": "4.2.0",
+                "content": "处理红米机型返回当前音频输出设备名称不正确的情况",
+                "author": "Van's MacBook Pro",
+                "date": "2018-10-27"
+            },
+            {
+                "version": "4.2.1",
+                "content": "刘海屏判断",
+                "author": "Van's MacBook Pro",
+                "date": "2018-10-29"
+            },
+            {
+                "version": "4.2.2",
+                "content": "添加获取设备名称",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-11-05"
+            },
+            {
+                "version": "4.2.3",
+                "content": "获取当前连接着的蓝牙设备名称",
+                "author": "Van's MacBook Pro",
+                "date": "2018-11-09"
+            },
+            {
+                "version": "4.2.5",
+                "content": "去除无用类",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/14/2018 13:50"
+            },
+            {
+                "version": "4.2.6",
+                "content": "修改测试服正式服判断方式",
+                "author": "van's MacBook Pro (2)",
+                "date": "01/02/2019 11:13"
+            },
+            {
+                "version": "4.2.7",
+                "content": "修复4G环境下  访问内网game enviromment服务器超时问题",
+                "author": "van's MacBook Pro (2)",
+                "date": "01/02/2019 14:10"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTGame"
+}

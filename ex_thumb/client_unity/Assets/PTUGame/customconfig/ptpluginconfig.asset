@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f860ae62d604793a0f108436f08650, type: 3}
+  m_Name: ptpluginconfig
+  m_EditorClassIdentifier: 
+  checkInterval: 60
+  serverUrl: http://10.1.223.240:5010/ptplugin
+  configDatas:
+  - type: blockres
+    enableCheck: 0
+    enableNew: 0
+    active: 0
+    name: "\u79EF\u6728\u5757\u8D44\u6E90"
+  - type: ptgame
+    enableCheck: 0
+    enableNew: 0
+    active: 1
+    name: " PT\u63D2\u4EF6"
+  - type: blockeditor
+    enableCheck: 0
+    enableNew: 0
+    active: 1
+    name: "\u79EF\u6728\u7F16\u8F91\u5668"
+  - type: test
+    enableCheck: 0
+    enableNew: 0
+    active: 0
+    name: "\u6D4B\u8BD5\u63D2\u4EF6"
+  - type: paibloks
+    enableCheck: 0
+    enableNew: 0
+    active: 0
+    name: "\u79EF\u6728\u642D\u5EFA\u7248\u8D44\u6E90"
+  - type: blockscript
+    enableCheck: 0
+    enableNew: 0
+    active: 1
+    name: "\u79EF\u6728\u516C\u7528\u4EE3\u7801"
+  - type: blockbots
+    enableCheck: 0
+    enableNew: 0
+    active: 0
+    name: "BlockBots\u9879\u76EE\u8D44\u6E90"
+  - type: platform_paibloks
+    enableCheck: 0
+    enableNew: 0
+    active: 1
+    name: "\u79EF\u6728\u5E73\u53F0"

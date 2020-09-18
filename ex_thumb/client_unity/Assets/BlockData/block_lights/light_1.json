@@ -1,0 +1,91 @@
+{
+    "lightingList": [
+        {
+            "pos": {
+                "x": -0.6800000071525574,
+                "y": 6.190000057220459,
+                "z": -6.880000114440918
+            },
+            "euler": {
+                "x": 41.976402282714847,
+                "y": 47.24267578125,
+                "z": 92.9189682006836
+            },
+            "type": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "intensity": 0.5,
+            "indirectMultiplier": 2.0,
+            "shadowType": 2,
+            "shadowStrength": 0.4519999921321869,
+            "shadowResolution": 3,
+            "shadowBias": 0.0,
+            "shadowNormalBias": 0.0,
+            "shadowNearPlane": 0.18000000715255738,
+            "renderMode": 0,
+            "cullingMask": -1
+        },
+        {
+            "pos": {
+                "x": 5.329999923706055,
+                "y": 9.079999923706055,
+                "z": 12.390000343322754
+            },
+            "euler": {
+                "x": 14.83620548248291,
+                "y": 210.86029052734376,
+                "z": 306.6246337890625
+            },
+            "type": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "intensity": 0.30000001192092898,
+            "indirectMultiplier": 2.0,
+            "shadowType": 1,
+            "shadowStrength": 0.28200000524520876,
+            "shadowResolution": 0,
+            "shadowBias": 0.05000000074505806,
+            "shadowNormalBias": 0.4000000059604645,
+            "shadowNearPlane": 0.20000000298023225,
+            "renderMode": 0,
+            "cullingMask": -1
+        },
+        {
+            "pos": {
+                "x": -8.279999732971192,
+                "y": 7.690000057220459,
+                "z": 2.950000047683716
+            },
+            "euler": {
+                "x": 31.596609115600587,
+                "y": 133.79763793945313,
+                "z": 116.43634033203125
+            },
+            "type": 1,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "intensity": 0.30000001192092898,
+            "indirectMultiplier": 2.0,
+            "shadowType": 0,
+            "shadowStrength": 0.4749999940395355,
+            "shadowResolution": 0,
+            "shadowBias": 0.05000000074505806,
+            "shadowNormalBias": 0.4000000059604645,
+            "shadowNearPlane": 0.20000000298023225,
+            "renderMode": 0,
+            "cullingMask": -1
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 123,
+    "name": "ptunitygltf",
+    "version": "1.0.1",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "新增解析GLTF格式插件。",
+                "author": "dtknowlove的Mac Book",
+                "date": "6/24/2020 4:01 PM"
+            },
+            {
+                "version": "1.0.1",
+                "content": "GLTF移除材质生成类。",
+                "author": "dtknowlove的Mac Book",
+                "date": "8/12/2020 10:56 AM"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTUnityGLTF"
+}

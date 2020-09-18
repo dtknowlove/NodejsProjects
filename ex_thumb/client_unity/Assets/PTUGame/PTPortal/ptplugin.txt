@@ -1,0 +1,78 @@
+{
+    "id": 107,
+    "name": "ptportal",
+    "version": "1.1.1",
+    "type": "paibloks",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "原生APP整合的相关 接口",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-11-13"
+            },
+            {
+                "version": "1.0.1",
+                "content": "原生APP整合的相关 接口",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-05"
+            },
+            {
+                "version": "1.0.2",
+                "content": "原生APP整合的相关 接口",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-10"
+            },
+            {
+                "version": "1.0.3",
+                "content": "修改ios",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-11"
+            },
+            {
+                "version": "1.0.5",
+                "content": "guide finish",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-11"
+            },
+            {
+                "version": "1.0.6",
+                "content": "guide finish",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-11"
+            },
+            {
+                "version": "1.0.7",
+                "content": "guide finish",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-12"
+            },
+            {
+                "version": "1.0.8",
+                "content": "guide finish",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-13"
+            },
+            {
+                "version": "1.0.9",
+                "content": "友盟接口添加",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/18/2018 11:15"
+            },
+            {
+                "version": "1.1.0",
+                "content": "友盟接口添加",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/18/2018 16:33"
+            },
+            {
+                "version": "1.1.1",
+                "content": "修改log输出",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/19/2018 14:55"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTPortal"
+}

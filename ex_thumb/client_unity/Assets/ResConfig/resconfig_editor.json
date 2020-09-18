@@ -1,0 +1,53 @@
+{
+    "resversion": "105",
+    "items": [
+        {
+            "name": "blockdata",
+            "path": "BlockData/blockdata.json",
+            "hash": "907ae6957a633845948f2da5f6521",
+            "size": 978061.0
+        },
+        {
+            "name": "blockdata.json",
+            "path": "BlockData/blockdata.json.meta",
+            "hash": "8d31f6871fee8ac0b77da0bc605dda",
+            "size": 177.0
+        },
+        {
+            "name": "ptplugin",
+            "path": "BlockData/ptplugin.txt",
+            "hash": "d5de0e7af811c30181d663a73c5fbe8",
+            "size": 16158.0
+        },
+        {
+            "name": "ptplugin.txt",
+            "path": "BlockData/ptplugin.txt.meta",
+            "hash": "e708a17837b6267470e0dc651fd782",
+            "size": 177.0
+        },
+        {
+            "name": "stickerdata",
+            "path": "BlockData/stickerdata.json",
+            "hash": "fff34aa41f487495d7d9d244429b2d82",
+            "size": 14003.0
+        },
+        {
+            "name": "stickerdata.json",
+            "path": "BlockData/stickerdata.json.meta",
+            "hash": "dfc78ac9da480869ea05061cbd6e19",
+            "size": 177.0
+        },
+        {
+            "name": "texturedata",
+            "path": "BlockData/texturedata.json",
+            "hash": "f46982f58ce759d8bd204614bb33413e",
+            "size": 3416.0
+        },
+        {
+            "name": "texturedata.json",
+            "path": "BlockData/texturedata.json.meta",
+            "hash": "67e1d2523c3de559a1523cecbbdeb49",
+            "size": 177.0
+        }
+    ]
+}

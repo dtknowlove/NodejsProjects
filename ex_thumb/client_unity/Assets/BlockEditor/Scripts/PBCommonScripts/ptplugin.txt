@@ -1,0 +1,648 @@
+{
+    "id": 51,
+    "name": "pbcommonscripts",
+    "version": "1.1.8",
+    "type": "blockscript",
+    "readme": {
+        "items": [
+            {
+                "version": "0.0.1",
+                "content": "提取搭建播放部分公共代码",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-05"
+            },
+            {
+                "version": "0.0.2",
+                "content": "spline变形功能完成",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-10"
+            },
+            {
+                "version": "0.0.3",
+                "content": "履带制作",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.4",
+                "content": "fix bug",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.5",
+                "content": "接入BlokBots",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.6",
+                "content": "履带编辑",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.7",
+                "content": "UI层ModelManager修改。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.8",
+                "content": "同步",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-29"
+            },
+            {
+                "version": "0.0.9",
+                "content": "keyframe加功能",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-30"
+            },
+            {
+                "version": "0.1.0",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-30"
+            },
+            {
+                "version": "0.1.1",
+                "content": "旋转更新；摄像机跟随更新。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-05-30"
+            },
+            {
+                "version": "0.1.2",
+                "content": "删除spline exemple",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-05-31"
+            },
+            {
+                "version": "0.1.3",
+                "content": "贴图库功能",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-01"
+            },
+            {
+                "version": "0.1.4",
+                "content": "同步",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-05"
+            },
+            {
+                "version": "0.1.5",
+                "content": "加载提供传入abName。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-05"
+            },
+            {
+                "version": "0.1.6",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-05"
+            },
+            {
+                "version": "0.1.7",
+                "content": "履带：左中右偏移",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-06"
+            },
+            {
+                "version": "0.1.8",
+                "content": "相机跟随：穿帮问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-08"
+            },
+            {
+                "version": "0.1.9",
+                "content": "keyframe: playfast",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-12"
+            },
+            {
+                "version": "0.2.0",
+                "content": "fix bug: stop keyframe",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-12"
+            },
+            {
+                "version": "0.2.1",
+                "content": "第一帧处理更新；同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-12"
+            },
+            {
+                "version": "0.2.2",
+                "content": "同步;KeyframeMgr单例改为mono",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-12"
+            },
+            {
+                "version": "0.2.3",
+                "content": "blockmovespeed",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-13"
+            },
+            {
+                "version": "0.2.4",
+                "content": "添加新的动画方式；同步。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-13"
+            },
+            {
+                "version": "0.2.5",
+                "content": "block_db",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-14"
+            },
+            {
+                "version": "0.2.6",
+                "content": "fix bug: 履带",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-14"
+            },
+            {
+                "version": "0.2.7",
+                "content": "ModelMgr整理并添加打断设置",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-15"
+            },
+            {
+                "version": "0.2.8",
+                "content": "优化BlokBuildMgr",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-19"
+            },
+            {
+                "version": "0.2.9",
+                "content": "类改名，同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-20"
+            },
+            {
+                "version": "0.3.0",
+                "content": "set editor transform: spline特殊处理",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-21"
+            },
+            {
+                "version": "0.3.1",
+                "content": "异步加载blocks",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-22"
+            },
+            {
+                "version": "0.3.2",
+                "content": "block_db",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-25"
+            },
+            {
+                "version": "0.3.3",
+                "content": "零件个数",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-25"
+            },
+            {
+                "version": "0.3.4",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-25"
+            },
+            {
+                "version": "0.3.5",
+                "content": "结点信息",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-06-26"
+            },
+            {
+                "version": "0.3.6",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-28"
+            },
+            {
+                "version": "0.3.7",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-06-29"
+            },
+            {
+                "version": "0.3.8",
+                "content": "丝印缩略图命名",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-02"
+            },
+            {
+                "version": "0.3.9",
+                "content": "添加零件类型信息",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-02"
+            },
+            {
+                "version": "0.4.0",
+                "content": "支持单个丝印物体生成",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "0.4.1",
+                "content": "block_db",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "0.4.2",
+                "content": "节点支持动画及图片",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "0.4.3",
+                "content": "搭建节点信息改名，添加tip支持。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "0.4.4",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-03"
+            },
+            {
+                "version": "0.4.5",
+                "content": "兼容老版本轮胎说明",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-05"
+            },
+            {
+                "version": "0.4.6",
+                "content": "同步",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-05"
+            },
+            {
+                "version": "0.4.7",
+                "content": "贴纸功能",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-06"
+            },
+            {
+                "version": "0.4.8",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-09"
+            },
+            {
+                "version": "0.4.9 ",
+                "content": "零件描述功能",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-10"
+            },
+            {
+                "version": "0.5.0",
+                "content": "fix bug: 履带setEditorTransform的问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-10"
+            },
+            {
+                "version": "0.5.1",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-12"
+            },
+            {
+                "version": "0.5.2",
+                "content": "block_db",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-13"
+            },
+            {
+                "version": "0.5.3",
+                "content": "同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-23"
+            },
+            {
+                "version": "0.5.4",
+                "content": "block_db",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-24"
+            },
+            {
+                "version": "0.5.5",
+                "content": "camera offset 设置，及config导出",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-26"
+            },
+            {
+                "version": "0.5.6",
+                "content": "fix bug:拖拽部分零件消失；同步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-26"
+            },
+            {
+                "version": "0.5.7",
+                "content": "整理pbkeyframe pbkeyframeitem ",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-07-30"
+            },
+            {
+                "version": "0.5.8",
+                "content": "判错处理；物体设置隐藏优化。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-08-04"
+            },
+            {
+                "version": "0.5.9",
+                "content": "fix bug:初始帧履带错误问题",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-08-06"
+            },
+            {
+                "version": "0.6.0",
+                "content": "软胶：曲线编辑",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-06"
+            },
+            {
+                "version": "0.6.1",
+                "content": "fix bug:初始化相机错误",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-08-09"
+            },
+            {
+                "version": "0.6.2",
+                "content": "软胶曲线编辑",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-15"
+            },
+            {
+                "version": "0.6.3",
+                "content": "ppobjloader",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-17"
+            },
+            {
+                "version": "0.6.5",
+                "content": "BlokBuildMgr的参数开发出来",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-20"
+            },
+            {
+                "version": "0.6.6",
+                "content": "combinemesh里面添加空判断",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-20"
+            },
+            {
+                "version": "0.6.7",
+                "content": "贴纸说明文字处理",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-20"
+            },
+            {
+                "version": "0.6.8",
+                "content": "section名可自定义",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-20"
+            },
+            {
+                "version": "0.6.9",
+                "content": "modelmanager：搭建分步播放崩溃问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-21"
+            },
+            {
+                "version": "0.7.1",
+                "content": "BlokBuildMgr: 解锁后播放处理",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-21"
+            },
+            {
+                "version": "0.7.2",
+                "content": "履带：app中生成履带，圆半径计算需要考虑轮子的实际缩放",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-22"
+            },
+            {
+                "version": "0.7.3",
+                "content": "PBSplineMesh 判空",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-23"
+            },
+            {
+                "version": "0.7.4",
+                "content": "fix bug:ModelManager重用时数据未清理。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-04"
+            },
+            {
+                "version": "0.7.5",
+                "content": "大、小、贴纸三类型根据名称重定义",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-20"
+            },
+            {
+                "version": "0.7.6",
+                "content": "fix bug:第一步重置前播放第0步",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-21"
+            },
+            {
+                "version": "0.7.7",
+                "content": "1. 优化：pbkeyframemanager\n2. fix bug: 正交相机屏幕区域显示计算问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-10-08"
+            },
+            {
+                "version": "0.7.8",
+                "content": "优化：相机隐藏显示问题",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-23"
+            },
+            {
+                "version": "0.7.9",
+                "content": "接口微调：适配说明书导出",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-10-24"
+            },
+            {
+                "version": "0.8.0",
+                "content": "fix:MeshBender内存泄漏",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-30"
+            },
+            {
+                "version": "0.8.1",
+                "content": "搭建Config AB名称修改",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-31"
+            },
+            {
+                "version": "0.8.2",
+                "content": "修改extension",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/14/2018 13:52"
+            },
+            {
+                "version": "0.8.3",
+                "content": "BlokBuildMgr初始化调整。",
+                "author": "dtknowlove的Mac Book",
+                "date": "18-12-14 下3:30"
+            },
+            {
+                "version": "0.8.4",
+                "content": "BlokBuildMgr初始化移除背景相关。",
+                "author": "dtknowlove的Mac Book",
+                "date": "18-12-17 下5:53"
+            },
+            {
+                "version": "0.8.5",
+                "content": "BlokBuildMgr初始化还原回背景相关。",
+                "author": "dtknowlove的Mac Book",
+                "date": "18-12-18 下6:59"
+            },
+            {
+                "version": "0.8.6",
+                "content": "BlokBuildMgr初始化摄像机缓动添加。",
+                "author": "dtknowlove的Mac Book",
+                "date": "18-12-19 下2:22"
+            },
+            {
+                "version": "0.8.7",
+                "content": "fix bug:摄像机抖动问题。",
+                "author": "dtknowlove的Mac Book",
+                "date": "18-12-19 下4:54"
+            },
+            {
+                "version": "0.8.8",
+                "content": "节点添加提示信息字段。",
+                "author": "Ling's MacBook Pro",
+                "date": "18-12-21 下2:52"
+            },
+            {
+                "version": "0.8.9",
+                "content": "app模式改成动态读取搭建配置文件",
+                "author": "van's MacBook Pro (2)",
+                "date": "12/25/2018 15:08"
+            },
+            {
+                "version": "0.9.0",
+                "content": "ModelManager AsyncInitBlocks 修改回调函数",
+                "author": "Ling's MacBook Pro",
+                "date": "3/8/2019 4:17 PM"
+            },
+            {
+                "version": "1.0.0",
+                "content": "BlokBuildMgr 修改命名空间。",
+                "author": "dtknowlove的Mac Book",
+                "date": "04/01/2019 16:27"
+            },
+            {
+                "version": "1.0.1",
+                "content": "BlokBuildMgr对外开放ClearData.",
+                "author": "dtknowlove的Mac Book",
+                "date": "04/01/2019 16:38"
+            },
+            {
+                "version": "1.0.2",
+                "content": "去除对BlokBuild 的依赖。请不要对app代码产生任何依赖！！！",
+                "author": "Ling's MacBook Pro",
+                "date": "4/3/2019 10:29 AM"
+            },
+            {
+                "version": "1.0.3",
+                "content": "同步Block Model  、Block Editor、App 三个工程的代码",
+                "author": "van's MacBook Pro (2)",
+                "date": "04/30/2019 17:44"
+            },
+            {
+                "version": "1.0.5",
+                "content": "release m- fix: bom表导出，料号规则修改",
+                "author": "van's MacBook Pro (2)",
+                "date": "05/28/2019 18:36"
+            },
+            {
+                "version": "1.0.6",
+                "content": "release m- fix: 多个项目同步",
+                "author": "zywanMacBook Pro",
+                "date": "11/06/2019 14:06"
+            },
+            {
+                "version": "1.0.7",
+                "content": "m-搭建灯光配置化，并动态加载",
+                "author": "maoling的MacBook Pro",
+                "date": "11/19/2019 10:17 AM"
+            },
+            {
+                "version": "1.0.8",
+                "content": "m-分离搭建加载模块",
+                "author": "maoling的MacBook Pro",
+                "date": "12/03/2019 10:14"
+            },
+            {
+                "version": "1.0.9",
+                "content": "m- PBDatabaseManager: 区分编辑器/app 代码",
+                "author": "maoling的MacBook Pro",
+                "date": "12/03/2019 13:21"
+            },
+            {
+                "version": "1.1.0",
+                "content": "m-fix bug： 搭建灯光加载目录 大小写问题",
+                "author": "maoling的MacBook Pro",
+                "date": "12/5/2019 11:43 AM"
+            },
+            {
+                "version": "1.1.1",
+                "content": "1. 缩略图导出UI交互优化\n2. block数据整理：color索引",
+                "author": "maoling的MacBook Pro",
+                "date": "12/05/2019 15:16"
+            },
+            {
+                "version": "1.1.2",
+                "content": "fix bug: PPObjLoader 按搭建动画加载丢失了“hide”零件",
+                "author": "maoling的MacBook Pro",
+                "date": "12/10/2019 16:29"
+            },
+            {
+                "version": "1.1.3",
+                "content": "fix bug: 搭建灯光动态加载：从完成界面返回后灯光消失",
+                "author": "maoling的MacBook Pro",
+                "date": "12/11/2019 14:34"
+            },
+            {
+                "version": "1.1.4",
+                "content": "fix bug: 自定义材质解析容错处理",
+                "author": "maoling的MacBook Pro",
+                "date": "1/10/2020 11:19 AM"
+            },
+            {
+                "version": "1.1.5",
+                "content": "添加pbl大类",
+                "author": "Ling's MBP",
+                "date": "2/2/2020 11:19 AM"
+            },
+            {
+                "version": "1.1.6",
+                "content": "colordata.json 增加 colorCategory 字段",
+                "author": "Ling's MBP",
+                "date": "02/11/2020 10:42"
+            },
+            {
+                "version": "1.1.7",
+                "content": "colordata.json 增加 newCode 字段",
+                "author": "maoling的MacBook Pro",
+                "date": "2/15/2020 3:12 PM"
+            },
+            {
+                "version": "1.1.8",
+                "content": "fix bug: ppObjLoader\n按动画步骤加载零件，考虑没有配置动画步骤的零件",
+                "author": "maoling的MacBook Pro",
+                "date": "2/28/2020 1:37 PM"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/BlockEditor/Scripts/PBCommonScripts"
+}

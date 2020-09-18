@@ -1,0 +1,138 @@
+{
+    "id": 97,
+    "name": "ptframework",
+    "version": "1.2.1",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "重构AudioManager",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-10"
+            },
+            {
+                "version": "1.0.1",
+                "content": "fix：音效有时播不出来",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-13"
+            },
+            {
+                "version": "1.0.2",
+                "content": "fix：音量管理混乱",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-20"
+            },
+            {
+                "version": "1.0.3",
+                "content": "sound、voice开关不受music影响",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-21"
+            },
+            {
+                "version": "1.0.4",
+                "content": "hot fix：voice 连续不间断播放，会丢失",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-08-27"
+            },
+            {
+                "version": "1.0.5",
+                "content": "更改消息转发扩展方式，统一继承IMsgCenter.",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-03"
+            },
+            {
+                "version": "1.0.6",
+                "content": "修改PTUIManager 部分internal 函数为public",
+                "author": "Van's MacBook Pro",
+                "date": "2018-09-07"
+            },
+            {
+                "version": "1.0.7",
+                "content": "fix bug:部分找不到消息继承实现类。",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-10"
+            },
+            {
+                "version": "1.0.8",
+                "content": "开放volume控制， 增加voice的volume",
+                "author": "Mac lee",
+                "date": "2018-09-25"
+            },
+            {
+                "version": "1.0.9",
+                "content": "AudioManager添加背景音乐音量",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-09-26"
+            },
+            {
+                "version": "1.1.0",
+                "content": "AudioManager播放时处理暂停字段",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-19"
+            },
+            {
+                "version": "1.1.1",
+                "content": "UIView 添加PanelInfo判空处理",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-10-22"
+            },
+            {
+                "version": "1.1.2",
+                "content": "UIDragEventInScrollRect：判空处理",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-11-05"
+            },
+            {
+                "version": "1.1.3",
+                "content": "UIDragEventInScrollRect：OnEndDrag判定问题",
+                "author": "Ling's MacBook Pro",
+                "date": "2018-11-16"
+            },
+            {
+                "version": "1.1.5",
+                "content": "清理部分内容",
+                "author": "van's MacBook Pro (2)",
+                "date": "2018-12-11"
+            },
+            {
+                "version": "1.1.6",
+                "content": "PTUIManager添加页面打开与关闭事件",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-12-11"
+            },
+            {
+                "version": "1.1.7",
+                "content": "PTUIManager页面打开时添加data赋值",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-12-12"
+            },
+            {
+                "version": "1.1.8",
+                "content": "整合ptcore，修改命名空间",
+                "author": "Ling's MacBook Pro",
+                "date": "01/17/2019 15:47"
+            },
+            {
+                "version": "1.1.9",
+                "content": "修改 AudioManager",
+                "author": "Ling's MacBook Pro",
+                "date": "01/17/2019 16:33"
+            },
+            {
+                "version": "1.2.0",
+                "content": "删减ptframework",
+                "author": "Ling's MacBook Pro",
+                "date": "01/18/2019 15:43"
+            },
+            {
+                "version": "1.2.1",
+                "content": "修改日志输出为PTDebug",
+                "author": "van's MacBook Pro (2)",
+                "date": "01/22/2019 11:03"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTFramework"
+}

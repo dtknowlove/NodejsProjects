@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "prefabName": "paiblocks_id_wheel_asm01",
+            "partPrefabNames": [
+                "paiblocks_aixs_of_rotation_light_coolgray",
+                "paibloks_wheel_52_02"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm02",
+            "partPrefabNames": [
+                "paiblocks_aixs_of_rotation_light_coolgray",
+                "paibloks_wheel_58_02"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm02_002_057_057",
+            "partPrefabNames": [
+                "paibloks_wheel_58_02_light_orange",
+                "paiblocks_aixs_of_rotation_light_orange"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm02_bright_orange",
+            "partPrefabNames": [
+                "paiblocks_aixs_of_rotation_bright_orange",
+                "paibloks_wheel_58_02_bright_orange"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm01_bright_orange",
+            "partPrefabNames": [
+                "paiblocks_aixs_of_rotation_bright_orange",
+                "paibloks_wheel_52_02_bright_orange"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_wheel_aixs_asm_medium_azur",
+            "partPrefabNames": [
+                "paiblocks_wheel_master_b_medium_azur",
+                "paiblocks_aixs_of_rotation_medium_azur"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_wheel_aixs_asm_bright_orange",
+            "partPrefabNames": [
+                "paiblocks_wheel_master_b_bright_orange",
+                "paiblocks_aixs_of_rotation_bright_orange"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm02_medium_azur",
+            "partPrefabNames": [
+                "paibloks_wheel_58_02_medium_azur",
+                "paiblocks_aixs_of_rotation_medium_azur"
+            ]
+        },
+        {
+            "prefabName": "paiblocks_id_wheel_asm01_medium_azur",
+            "partPrefabNames": [
+                "paibloks_wheel_52_02_medium_azur",
+                "paiblocks_aixs_of_rotation_medium_azur"
+            ]
+        },
+        {
+            "prefabName": "pb_wheel_65x28_asm_002_025_008",
+            "partPrefabNames": [
+                "paibloks_wheel_65mm_002_025",
+                "paiblocks_aixs_of_rotation_bright_orange"
+            ]
+        }
+    ]
+}

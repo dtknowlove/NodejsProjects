@@ -1,0 +1,54 @@
+{
+    "id": 0,
+    "name": "ptcsvutil",
+    "version": "1.0.6",
+    "type": "ptgame",
+    "readme": {
+        "items": [
+            {
+                "version": "1.0.0",
+                "content": "CSV 工具",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.1",
+                "content": "加入List<string>类型支持",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.2",
+                "content": "转换为制表符来区分",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.3",
+                "content": "自动去除末尾的空列",
+                "author": "wanzhenyu Mac Pro",
+                "date": ""
+            },
+            {
+                "version": "1.0.4",
+                "content": "单元格区分 用@@@",
+                "author": "Van's MacBook Pro",
+                "date": "2018-07-23"
+            },
+            {
+                "version": "1.0.5",
+                "content": "移除多余空行",
+                "author": "dtknowlove的Mac Book",
+                "date": "2018-07-25"
+            },
+            {
+                "version": "1.0.6",
+                "content": "修复生成类问题",
+                "author": "Van's MacBook Pro",
+                "date": "2018-08-09"
+            }
+        ]
+    },
+    "fileContent": "",
+    "url": "Assets/PTUGame/PTCSVUtil"
+}
